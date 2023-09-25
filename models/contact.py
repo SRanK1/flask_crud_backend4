@@ -18,3 +18,4 @@ class Contact(db.Model):
         self.fullname=fullname
         self.email=email
         self.phone=phone
+#lucero

@@ -54,3 +54,4 @@ def deleteContactos():
         db.session.commit()
         db.session.close()
         return jsonify(data)
+    #lucero

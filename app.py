@@ -12,3 +12,4 @@ app.register_blueprint(contact)
 
 if __name__ == "__main__":
     app.run(debug=True)
+#lucero

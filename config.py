@@ -9,3 +9,4 @@ database=os.environ['DATABASE']
 server=os.environ['SERVER']
 
 DATABASE_CONNECTION=f'{server}://{user}:{pwd}@{host}/{database}'
+#lucero
